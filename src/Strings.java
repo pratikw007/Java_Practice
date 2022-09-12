@@ -13,8 +13,17 @@ public class Strings {
 //        String name = "Pratik";
 //        System.out.println(name.charAt(5));
         //Length
-        String name = "Pratik";
-        System.out.println(name.length());
+//        String name = "Pratik";
+//        System.out.println(name.length());
+        //Replace
+//        String name = "Pratik";
+//        String name2 = name.replace('P','p');
+//        System.out.println(name);
+//        System.out.println(name2);
+        //substring
+//        String name = "Pratik And Pranay";
+//        System.out.println(name.substring(0,5));
+
 
         }
 
